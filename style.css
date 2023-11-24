@@ -1,0 +1,114 @@
+ .navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.naves ul{
+    margin-right: 60%;
+    display: flex;
+    margin-right: 50%;
+
+}
+ul li{
+    margin-right: 1rem;
+    list-style: none;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    ;
+}
+.Home{
+    display: flex;
+}
+.left{
+    width: 50%;
+    font-size: 30px;
+    padding: 3rem 4rem;
+}
+.right{
+    width: 50%;
+}
+.button{
+    border: 20px solid black;
+    padding: 0.5rem;
+    width: 30%;
+    text-align: center;
+    border-radius: 20px;
+}
+.button:hover{
+    transition: 1s;
+    background-color: black;
+    color: white;
+    padding: 0.5rem;
+    width: 30%;
+    text-align: center;
+    border-radius: 20px;
+}
+.photo img{
+width: 70%;
+height: 70%;
+border-radius: 50%;
+}
+.photo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    border-radius: 50%;
+    
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 1rem 0rem;
+    color: white;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
